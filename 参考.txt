@@ -1,0 +1,18 @@
+1、https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6?scriptVersionId=1437220
+
+Introduction to CNN Keras - Acc 0.997 (top 8%)
+Yassine Ghouzam, PhD
+18/07/2017
+
+2、https://blog.csdn.net/zdy0_2004/article/details/51945932
+如何用卷积神经网络CNN识别手写数字集？
+
+3、https://blog.csdn.net/zzz_cming/article/details/79691459
+【深度学习】8：CNN卷积神经网络与sklearn数据集实现数字识别
+
+4、https://blog.csdn.net/abc200941410128/article/details/79269386
+深度学习常见算法的介绍和比较
+
+5、https://blog.csdn.net/abc200941410128/article/details/78708319
+
+神经网络和深度学习简史（全）
